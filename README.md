@@ -61,10 +61,10 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![GITHUB LOGO](isnull.sum.png)
 
 ## HEAD USING LABELENCODER:
-![GITHUB LOGO](head using labelencoder.png)
+![GITHUB LOGO](labelencoder.png)
 
 ## X WITHOUT LEFT:
-![GITHUB LOGO](x data without left.png)
+![GITHUB LOGO](x.png)
 
 ## PREDICT:
 ![GITHUB LOGO](predict.png)
